@@ -1,6 +1,6 @@
 # Applitools_Automation_task
 clone repo <br />
-do npm install <br />
+do npm install  <br />
 then : npx eyes-setup <br />
 go to project directory in terminal <br />
 execute npx cypress open <br />
